@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"Alignment",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Color Highlight",
+		"ColorPicker",
+		"Emmet",
+		"JSHint Gutter",
+		"Package Control",
+		"Terminus",
+		"Theme - Flatland",
+		"Theme - Gravity",
+		"Theme - Soda",
+		"View In Browser"
+	]
+}

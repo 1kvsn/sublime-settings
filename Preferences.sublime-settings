@@ -1,0 +1,21 @@
+{
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html"
+		}
+	],
+	"color_scheme": "Packages/Theme - Gravity/Monokai Gravity v2.sublime-color-scheme",
+	"font_size": 11,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"save_on_focus_lost": true,
+	"tab_size": 2,
+	"theme": "Adaptive.sublime-theme",
+	"ui_scale": 1.2,
+	"word_wrap": "true"
+}
